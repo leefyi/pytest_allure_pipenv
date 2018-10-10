@@ -1,0 +1,51 @@
+[ {
+  "uid" : "5a450802608dc548",
+  "name" : "pytest_allure_test.TestAllure.test_case_01",
+  "time" : {
+    "start" : 1539142841530,
+    "stop" : 1539142841618,
+    "duration" : 88
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "599b0bc17e2b26c2",
+  "name" : "pytest_allure_test.TestAllure.test_case_02",
+  "time" : {
+    "start" : 1539142841625,
+    "stop" : 1539142841627,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a6ae8e5c022c299",
+  "name" : "pytest_allure_test.TestAllure.test_case_04",
+  "time" : {
+    "start" : 1539142841631,
+    "stop" : 1539142841634,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "cc94f23ab7e79d0f",
+  "name" : "pytest_allure_test.TestAllure.test_str",
+  "time" : {
+    "start" : 1539142841636,
+    "stop" : 1539142841644,
+    "duration" : 8
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "8ee2633b3f94c96",
+  "name" : "pytest_allure_test.TestAllure.test_case_03",
+  "time" : {
+    "start" : 1539142841628,
+    "stop" : 1539142841629,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "minor"
+} ]

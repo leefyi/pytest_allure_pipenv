@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "lifangyideMacBook-Air.local",
+    "children" : [ {
+      "name" : "1526-MainThread",
+      "children" : [ {
+        "name" : "pytest_allure_test.TestAllure.test_case_01",
+        "uid" : "5a450802608dc548",
+        "parentUid" : "09fb82368cbb60a2f95d0d0ec3551949",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539142841530,
+          "stop" : 1539142841618,
+          "duration" : 88
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pytest_allure_test.TestAllure.test_case_02",
+        "uid" : "599b0bc17e2b26c2",
+        "parentUid" : "09fb82368cbb60a2f95d0d0ec3551949",
+        "status" : "passed",
+        "time" : {
+          "start" : 1539142841625,
+          "stop" : 1539142841627,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pytest_allure_test.TestAllure.test_case_04",
+        "uid" : "6a6ae8e5c022c299",
+        "parentUid" : "09fb82368cbb60a2f95d0d0ec3551949",
+        "status" : "passed",
+        "time" : {
+          "start" : 1539142841631,
+          "stop" : 1539142841634,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pytest_allure_test.TestAllure.test_str",
+        "uid" : "cc94f23ab7e79d0f",
+        "parentUid" : "09fb82368cbb60a2f95d0d0ec3551949",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539142841636,
+          "stop" : 1539142841644,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pytest_allure_test.TestAllure.test_case_03",
+        "uid" : "8ee2633b3f94c96",
+        "parentUid" : "09fb82368cbb60a2f95d0d0ec3551949",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1539142841628,
+          "stop" : 1539142841629,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09fb82368cbb60a2f95d0d0ec3551949"
+    } ],
+    "uid" : "330c3bb422de5950758ae1e6bb12e952"
+  } ]
+}
